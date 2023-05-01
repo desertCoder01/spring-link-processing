@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: linkProcessing
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+server:
+  port: 8081
+
